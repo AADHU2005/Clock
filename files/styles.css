@@ -1,0 +1,32 @@
+/* 
+    Copyright Aadhu
+*/
+
+:root {
+    --neon: #ff3a3a
+}
+
+body {
+    font-family:'Poppins' sans-serif;
+    display: grid;
+    place-items: center;
+    height: 90vh;
+    background: #222;
+    transition: 2s;
+    color: var(--neon);
+}
+.clock {
+    padding: 8px;
+    text-align: center;
+    width: 300px;
+}
+.hourMinuteSecond {
+    font-size: 90px;
+    font-weight: 200;
+}
+.amPm {
+    font-size: 12px;
+}
+.date {
+    font-size: 20px;
+}
