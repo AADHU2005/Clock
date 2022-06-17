@@ -1,7 +1,7 @@
 # Clock
 It is a simple clock HTML website.
 
-> > Click [here](https://aadhu2005.github.io/Clock/main.html) to view website
+> Click [here](https://aadhu2005.github.io/Clock/main.html) to view website
 
 ## Example
 > ![Sample Image](/.github/assets/screenshot_1.png)
